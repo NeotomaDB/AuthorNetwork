@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
+
+body{background-color: #F9F5F4;font-family: 'Droid Serif', serif;}
+  .icon-row{height:100%px;padding:1%;}
+  
+  .donut-box{height:100%px;padding:8%;border-color:#000;}
+  
+  .clearfix::after {
+  content: '';
+  clear: both;
+  display: table;
+  }
+  .color-box-d1{
+  float:left;
+  vertical-align:middle;
+  background-color:#F78D3F;
+  border-style:solid;
+  border-color:#000;
+  border-width:2px;
+  font-color: #000;
+  width:20%; 
+  height:auto; 
+  padding:30px;
+  display:inline-table;}
+  
+  .color-box-d2 {
+  float:left;
+  vertical-align:middle;
+  border-style:solid;
+  border-color:#000;
+  border-width:2px;
+  background-color:#2BBBD8; 
+  width:20%; 
+  height:auto; 
+  padding:30px;
+  display:inline-table;
+  }
+  
+  .color-text {
+  vertical-align:middle;
+  margin: 23px 0 0 5px;
+  padding: 5px 5px;
+  }
+  
+  .child {
+  display: table-cell;
+  vertical-align: middle;
+  }
+  
+  .image { 
+  position: relative; 
+  width: 100%; /* for IE 6 */
+  top: 50%;
+  }
+  
+  h5 { 
+  position: absolute;
+  text-align: center;
+  letter-spacing: 3px;
+  text-shadow: 2px 2px silver;
+  font-size:3vw;
+  left: 0; 
+  width: 100%; 
+  }
+  
+  h2 {
+    font-family: 'Roboto';
+    font-weight: 300;
+    line-height: 1;
+    color: #48ca3b;
+  }
+
+  h1 {
+    font-family: 'Roboto';
+    font-weight: 500;
+    line-height: 1.1;
+    color: #48ca3b;
+  }
