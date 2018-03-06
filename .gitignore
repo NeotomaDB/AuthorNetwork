@@ -1,3 +1,5 @@
+authorNetwork/rsconnect/*
+
 # History files
 .Rhistory
 .Rapp.history
@@ -33,3 +35,4 @@ vignettes/*.pdf
 *.knit.md
 
 AuthorNetwork.Rproj
+.Rproj.user
