@@ -1,0 +1,22 @@
+{data: 
+	{authors: [
+		{firstName: "Simon",
+		 lastName: "Goring",
+		 affiliation: "University of Wisconsin",
+		 location: [56.7, -120],
+		 sites: [123,234,232,4543,6456]
+		},
+	]},
+	{sites: [
+	 	{siteid: 123,
+	 	 sitename: "Dirty house pollen",
+	 	 description: "From under the couch and behind the fridge",
+	 	 location: [56.7, -120]
+		},
+		{siteid: 234,
+	 	 sitename: "Minnesota Cheese Factory",
+	 	 description: "From under the couch and behind the fridge",
+	 	 location: [65.7, -121]
+		}]
+	}
+}
