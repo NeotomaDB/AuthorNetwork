@@ -1,3 +1,5 @@
+[![lifecycle](https://img.shields.io/badge/lifecycle-archived-orange.svg)]
+
 # Author Networks
 
 A repository for the test version of the [Neotoma Author Network Shiny app](https://simongoring.shinyapps.io/authorNetwork/).  This work is sponsored by a grant from the National Sciences Foundation ([Grant #1550855](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550855&HistoricalAwards=false)) to Simon Goring at the University of Wisconsin-Madison as part of the FlyOver Country application.
